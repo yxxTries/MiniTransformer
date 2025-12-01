@@ -1,0 +1,24 @@
+The universe is a vast and dynamic place, shaped by gravity, radiation, and the distribution of matter. 
+Astronomers classify structures on many scales, from small planetesimals to galaxy clusters stretching millions of light-years. 
+A star forms when a dense pocket of molecular gas collapses under its own gravity. As it contracts, the core heats up until nuclear fusion begins, releasing energy and stabilizing the star. 
+Stars evolve over billions of years, eventually becoming white dwarfs, neutron stars, or black holes depending on their initial mass. 
+Massive stars live fast and die violently, exploding in supernovae that scatter heavy elements into surrounding space. These elements later become part of new stars, planets, and potentially life.
+
+Galaxies are enormous systems of stars, gas, dust, and dark matter. The Milky Way is a barred spiral galaxy containing hundreds of billions of stars. At its center lies a supermassive black hole called Sagittarius A*, surrounded by rapidly orbiting gas clouds. 
+Other galaxies come in many shapes: ellipticals, spirals, and irregulars. When galaxies collide, gravitational interactions can trigger bursts of star formation or even merge the galaxies into a single larger system.
+
+The solar system formed about 4.6 billion years ago from a rotating disk of gas and dust. Material in the disk clumped together to form planetesimals and later the planets we observe today. 
+The inner planets—Mercury, Venus, Earth, and Mars—are rocky worlds with solid surfaces. The outer planets—Jupiter, Saturn, Uranus, and Neptune—are gas giants or ice giants with thick atmospheres and complex magnetic fields. 
+Beyond Neptune lies the Kuiper Belt, a region containing icy bodies like Pluto and many comets.
+
+Light travels at a finite speed of about 299,792 kilometers per second. Because of this, observing distant objects allows astronomers to look back in time. 
+A galaxy one billion light-years away is seen as it was one billion years ago. This makes astronomy uniquely capable of describing the early universe.
+
+Telescopes detect different forms of electromagnetic radiation, from radio waves to gamma rays. Radio telescopes reveal cold hydrogen gas, while infrared telescopes detect warm dust. 
+Visible-light telescopes map stars and galaxies, and X-ray telescopes observe high-energy phenomena such as black hole accretion disks and neutron star mergers.
+
+Dark matter and dark energy remain two of the biggest mysteries in modern cosmology. Dark matter appears to bind galaxies together, while dark energy accelerates the expansion of the universe. 
+Although invisible, their effects shape the large-scale structure of the cosmos.
+
+Astronomy continues to evolve with new technology, from space-based observatories to machine learning tools that classify millions of celestial objects. 
+Each discovery helps build a clearer picture of how the universe formed, how it changes, and what its future might hold.
