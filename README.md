@@ -1,6 +1,6 @@
 # MiniTransformer
 
-A minimal GPT-style language model built from scratch in PyTorch.
+A minimal GPT-style language model built from a small section of shakesperean text.
 
 ## Features
 
